@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh-bhoite-1901&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-bhoite-1901" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh-bhoite-1901" alt="siddhesh-bhoite-1901" /></a> </p>
+- 📫 How to reach me **Email- bhoitesiddhesh2002@gmail.com**
+- 📫 How to reach me **Phone No. 7558577480**
 
-- 📫 How to reach me **bhoitesiddhesh2002@gmail.com** 
-- 📫 How to reach me **Phone No. 7558577480** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhesh-bhoite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-bhoite" height="30" width="40" /></a>
@@ -19,4 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhesh-bhoite-1901&show_icons=true&locale=en&layout=compact" alt="siddhesh-bhoite-1901" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhesh-bhoite-1901&show_icons=true&locale=en" alt="siddhesh-bhoite-1901" /></p>
+
 
