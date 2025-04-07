@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Bhoite</h1>
-<h3 align="center">A passionate frontend developer from Pune, Maharastra, India</h3>
+<h3 align="center">A Passionate FrontEnd Developer/Web Developer from Pune, Maharastra, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh-bhoite-1901&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-bhoite-1901" /> </p>
 
