@@ -17,6 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhesh-bhoite-1901&show_icons=true&locale=en&layout=compact" alt="siddhesh-bhoite-1901" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhesh-bhoite-1901&show_icons=true&locale=en" alt="siddhesh-bhoite-1901" /></p>
-
-
